@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm Khaing Khant Htun, a junior/learning Software Engineer. Nice to meet you.
 
-<div style="display:flex; align-items: stretch;">
+<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkhtun&hide=contribs,stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkhtun&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
