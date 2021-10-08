@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-flex; height: 300px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkhtun&hide=contribs,stars&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat"  style="display: inline-flex; min-height: 300px;">
+<a href="https://github.com/anuraghazra/convoychat"  style="display: inline-flex; height: 300px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkhtun&show_icons=true&theme=dark&layout=compact" />
 </a>
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkhtun&hide=contribs,stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
