@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I'm Khaing Khant Htun, a junior/Learning Software Engineer. Nice to meet you.
+- 🌱 I'm Khaing Khant Htun, a junior/learning Software Engineer. Nice to meet you.
