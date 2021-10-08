@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 - 🌱 I'm Khaing Khant Htun, a junior/learning Software Engineer. Nice to meet you.
 
-<a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-flex; height: 300px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkhtun&hide=contribs,stars&show_icons=true&theme=dark" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkhtun&hide=contribs,stars&show_icons=true&theme=dark" style="display: inline-flex; height: 300px;"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat"  style="display: inline-flex; height: 300px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkhtun&show_icons=true&theme=dark&layout=compact" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkhtun&show_icons=true&theme=dark&layout=compact" style="display: inline-flex; height: 300px;"/>
 </a>
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkhtun&hide=contribs,stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkhtun&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
