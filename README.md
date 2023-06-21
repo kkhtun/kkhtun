@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I'm Kevin Htun, a newb in tech, currently working as a junior dev. Nice to meet you.
+- 🌱 I'm Khaing Khant (Kevin) Htun, a newb in tech. Let's code along, shall we?
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkhtun&hide=contribs,stars&show_icons=true&theme=dark" style="height: 150px;"/>
